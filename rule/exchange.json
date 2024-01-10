@@ -1,0 +1,40 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "binance.com",
+        "bitfinex.com",
+        "bitget.com",
+        "ftx.com",
+        "gate.io",
+        "gaterelay.com",
+        "huobi.com",
+        "kucoin.com",
+        "ledger.com",
+        "okex.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "binance",
+        "gateio",
+        "huobi"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".binance.com",
+        ".bitfinex.com",
+        ".bitget.com",
+        ".ftx.com",
+        ".gate.io",
+        ".gaterelay.com",
+        ".huobi.com",
+        ".kucoin.com",
+        ".ledger.com",
+        ".okex.com"
+      ]
+    }
+  ],
+  "version": 1
+}
