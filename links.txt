@@ -19,3 +19,4 @@ https://raw.githubusercontent.com/ljm625/sing-box-geosite/main/myrule/exchange.l
 https://raw.githubusercontent.com/ljm625/sing-box-geosite/main/myrule/nas.list
 https://raw.githubusercontent.com/ljm625/sing-box-geosite/main/myrule/steam.list
 https://raw.githubusercontent.com/ljm625/sing-box-geosite/main/myrule/steamchina.list
+https://raw.githubusercontent.com/ljm625/sing-box-geosite/main/myrule/bahamut.list
