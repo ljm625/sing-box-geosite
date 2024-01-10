@@ -1,0 +1,14 @@
+# Exchange
+DOMAIN-SUFFIX,gaterelay.com,Crypto
+DOMAIN-SUFFIX,gate.io,Crypto
+DOMAIN-SUFFIX,binance.com,Crypto
+DOMAIN-SUFFIX,kucoin.com,Crypto
+DOMAIN-SUFFIX,huobi.com,Crypto
+DOMAIN-SUFFIX,bitget.com,Crypto
+DOMAIN-SUFFIX,bitfinex.com,Crypto
+DOMAIN-SUFFIX,okex.com,Crypto
+DOMAIN-SUFFIX,ftx.com,Crypto
+DOMAIN-KEYWORD,gateio,Crypto
+DOMAIN-KEYWORD,binance,Crypto
+DOMAIN-KEYWORD,huobi,Crypto
+DOMAIN-SUFFIX,ledger.com,Crypto
