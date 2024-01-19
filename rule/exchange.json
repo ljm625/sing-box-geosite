@@ -8,6 +8,7 @@
         "ftx.com",
         "gate.io",
         "gaterelay.com",
+        "greeks.live",
         "huobi.com",
         "kucoin.com",
         "ledger.com",
@@ -17,6 +18,7 @@
     {
       "domain_keyword": [
         "binance",
+        "deribit",
         "gateio",
         "huobi"
       ]
@@ -29,6 +31,7 @@
         ".ftx.com",
         ".gate.io",
         ".gaterelay.com",
+        ".greeks.live",
         ".huobi.com",
         ".kucoin.com",
         ".ledger.com",
