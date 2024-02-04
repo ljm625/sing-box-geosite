@@ -1,0 +1,5 @@
+DOMAIN,appboot.netflix.com,NetflixLogin
+DOMAIN,ios.prod.cloud.netflix.com,NetflixLogin
+DOMAIN,android-appboot.netflix.com,NetflixLogin
+DOMAIN,android.prod.cloud.netflix.com,NetflixLogin
+
