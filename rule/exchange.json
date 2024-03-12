@@ -3,8 +3,10 @@
     {
       "domain": [
         "binance.com",
+        "bit.com",
         "bitfinex.com",
         "bitget.com",
+        "dexscreener.com",
         "ftx.com",
         "gate.io",
         "gaterelay.com",
@@ -12,7 +14,8 @@
         "huobi.com",
         "kucoin.com",
         "ledger.com",
-        "okex.com"
+        "okex.com",
+        "ox.fun"
       ]
     },
     {
@@ -26,8 +29,10 @@
     {
       "domain_suffix": [
         ".binance.com",
+        ".bit.com",
         ".bitfinex.com",
         ".bitget.com",
+        ".dexscreener.com",
         ".ftx.com",
         ".gate.io",
         ".gaterelay.com",
@@ -35,7 +40,8 @@
         ".huobi.com",
         ".kucoin.com",
         ".ledger.com",
-        ".okex.com"
+        ".okex.com",
+        ".ox.fun"
       ]
     }
   ],
