@@ -1,7 +1,7 @@
 {
   "rules": [
     {
-      "domain": [
+      "domain_suffix": [
         "playartifact.com",
         "s.team",
         "steam-chat.com",
@@ -21,29 +21,6 @@
         "steamvideo-a.akamaihd.net",
         "underlords.com",
         "valvesoftware.com"
-      ]
-    },
-    {
-      "domain_suffix": [
-        ".playartifact.com",
-        ".s.team",
-        ".steam-chat.com",
-        ".steambroadcast.akamaized.net",
-        ".steamcdn-a.akamaihd.net",
-        ".steamcommunity-a.akamaihd.net",
-        ".steamcommunity.com",
-        ".steamcontent.com",
-        ".steamdeck.com",
-        ".steamgames.com",
-        ".steampowered.com",
-        ".steamstatic.com",
-        ".steamstore-a.akamaihd.net",
-        ".steamusercontent-a.akamaihd.net",
-        ".steamusercontent.com",
-        ".steamuserimages-a.akamaihd.net",
-        ".steamvideo-a.akamaihd.net",
-        ".underlords.com",
-        ".valvesoftware.com"
       ]
     }
   ],
