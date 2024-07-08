@@ -5,7 +5,8 @@
         "binance",
         "deribit",
         "gateio",
-        "huobi"
+        "huobi",
+        "kraken"
       ]
     },
     {
@@ -20,6 +21,7 @@
         "gaterelay.com",
         "greeks.live",
         "huobi.com",
+        "kraken.com",
         "kucoin.com",
         "ledger.com",
         "okex.com",
