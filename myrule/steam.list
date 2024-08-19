@@ -20,3 +20,8 @@ DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net,Steam
 DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net,Steam
 DOMAIN-SUFFIX,steamvideo-a.akamaihd.net,Steam
     
+DOMAIN,steampipe.akamaized.net
+DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,humblebundle.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamstat.us
