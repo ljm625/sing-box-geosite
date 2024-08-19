@@ -1,7 +1,14 @@
 {
   "rules": [
     {
+      "domain": [
+        "steampipe.akamaized.net"
+      ]
+    },
+    {
       "domain_suffix": [
+        "fanatical.com",
+        "humblebundle.com",
         "playartifact.com",
         "s.team",
         "steam-chat.com",
@@ -13,6 +20,8 @@
         "steamdeck.com",
         "steamgames.com",
         "steampowered.com",
+        "steamserver.net",
+        "steamstat.us",
         "steamstatic.com",
         "steamstore-a.akamaihd.net",
         "steamusercontent-a.akamaihd.net",
