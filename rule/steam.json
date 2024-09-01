@@ -1,11 +1,6 @@
 {
   "rules": [
     {
-      "domain": [
-        "steampipe.akamaized.net"
-      ]
-    },
-    {
       "domain_suffix": [
         "fanatical.com",
         "humblebundle.com",
@@ -19,6 +14,7 @@
         "steamcontent.com",
         "steamdeck.com",
         "steamgames.com",
+        "steampipe.akamaized.net",
         "steampowered.com",
         "steamserver.net",
         "steamstat.us",
