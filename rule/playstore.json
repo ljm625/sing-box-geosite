@@ -1,0 +1,11 @@
+{
+    "rules": [
+      {
+        "domain_suffix": [
+          "play.googleapis.com",
+          "android.clients.google.com"
+        ]
+      }
+    ],
+    "version": 1
+  }
