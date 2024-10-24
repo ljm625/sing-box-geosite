@@ -1,2 +1,2 @@
-DOMAIN-SUFFIX,play.googleapis.com
-DOMAIN-SUFFIX,android.clients.google.com
+DOMAIN-SUFFIX,play.googleapis.com,Playstore
+DOMAIN-SUFFIX,android.clients.google.com,Playstore
