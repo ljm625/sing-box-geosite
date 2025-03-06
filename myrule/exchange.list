@@ -11,11 +11,17 @@ DOMAIN-SUFFIX,ftx.com,Crypto
 DOMAIN-SUFFIX,kraken.com,Crypto
 DOMAIN-SUFFIX,bybit.com,Crypto
 DOMAIN-SUFFIX,deribit.com,Crypto
+DOMAIN-SUFFIX,coinbase.com,Crypto
+DOMAIN-SUFFIX,okx.com,Crypto
+DOMAIN-SUFFIX,htx.com,Crypto
+DOMAIN-SUFFIX,bitget.site,Crypto
+DOMAIN-SUFFIX,hyperliquid.xyz,Crypto
 DOMAIN-KEYWORD,gateio,Crypto
 DOMAIN-KEYWORD,binance,Crypto
 DOMAIN-KEYWORD,huobi,Crypto
 DOMAIN-KEYWORD,deribit,Crypto
 DOMAIN-KEYWORD,kraken,Crypto
+DOMAIN-KEYWORD,bitget,Crypto
 DOMAIN-SUFFIX,greeks.live,Crypto
 DOMAIN-SUFFIX,ledger.com,Crypto
 DOMAIN-SUFFIX,dexscreener.com,Crypto
