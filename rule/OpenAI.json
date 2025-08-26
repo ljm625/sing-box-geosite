@@ -7,8 +7,6 @@
         "openai-api.arkoselabs.com",
         "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net",
         "openaicomproductionae4b.blob.core.windows.net",
-        "pplx-res.cloudinary.com",
-        "proactivebackend-pa.googleapis.com",
         "production-openaicom-storage.azureedge.net",
         "static.cloudflareinsights.com"
       ]
@@ -20,25 +18,19 @@
     },
     {
       "domain_suffix": [
-        "ai.azure.com",
         "ai.com",
-        "aistudio.google.com",
         "algolia.net",
         "api.statsig.com",
-        "apis.google.com",
         "auth0.com",
         "chatgpt.com",
         "chatgpt.livekit.cloud",
         "client-api.arkoselabs.com",
         "events.statsigapi.net",
-        "f7tk.com",
         "featuregates.org",
         "host.livekit.cloud",
-        "huggingface.co",
         "identrust.com",
         "intercom.io",
         "intercomcdn.com",
-        "jasper.ai",
         "launchdarkly.com",
         "oaistatic.com",
         "oaiusercontent.com",
@@ -48,10 +40,6 @@
         "openaicom.imgix.net",
         "segment.io",
         "sentry.io",
-        "smoot.apple.com",
-        "sora.com",
-        "stability.ai",
-        "statsigapi.net",
         "stripe.com",
         "turn.livekit.cloud"
       ]
