@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "android-appboot.netflix.com",
+        "android.prod.cloud.netflix.com",
+        "appboot.netflix.com",
+        "ios.prod.cloud.netflix.com"
+      ]
+    }
+  ],
+  "version": 2
+}

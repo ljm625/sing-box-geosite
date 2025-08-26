@@ -1,0 +1,42 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "binance",
+        "bitget",
+        "deribit",
+        "gateio",
+        "huobi",
+        "kraken"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "binance.com",
+        "bit.com",
+        "bitfinex.com",
+        "bitget.com",
+        "bitget.site",
+        "bybit.com",
+        "coinbase.com",
+        "deribit.com",
+        "dexscreener.com",
+        "ftx.com",
+        "gate.io",
+        "gaterelay.com",
+        "greeks.live",
+        "htx.com",
+        "huobi.com",
+        "hyperliquid.xyz",
+        "kraken.com",
+        "kucoin.com",
+        "ledger.com",
+        "okex.com",
+        "okx.com",
+        "ox.fun",
+        "pionex.com"
+      ]
+    }
+  ],
+  "version": 2
+}

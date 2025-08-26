@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "aqua.p01.lp1.d4c.srv.nintendo.net",
+        "atum-4ff.hac.lp1.d4c.nintendo.net",
+        "atum-eda.hac.lp1.d4c.nintendo.net",
+        "atum.p01.lp1.d4c.srv.nintendo.net",
+        "atumn.hac.lp1.d4c.nintendo.net",
+        "sun.p01.lp1.d4c.srv.nintendo.net"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,15 +1,15 @@
 {
-    "rules": [
-      {
-        "domain": [
-          "connectivitycheck.gstatic.com"
-        ]
-      },
-      {
-        "domain_suffix": [
-          "services.googleapis.cn"
-        ]
-      }
-    ],
-    "version": 1
-  }
+  "rules": [
+    {
+      "domain": [
+        "connectivitycheck.gstatic.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "services.googleapis.cn"
+      ]
+    }
+  ],
+  "version": 2
+}
