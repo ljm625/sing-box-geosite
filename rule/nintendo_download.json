@@ -1,7 +1,7 @@
 {
   "rules": [
     {
-      "domain_suffix": [
+      "domain": [
         "aqua.p01.lp1.d4c.srv.nintendo.net",
         "atum-4ff.hac.lp1.d4c.nintendo.net",
         "atum-eda.hac.lp1.d4c.nintendo.net",
